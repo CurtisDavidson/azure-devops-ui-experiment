@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-| Is Regression | Case ID |
-|---|---|
-| **Is this a regression?** | **Case ID here** |
+---
+regression: Is this a regression (Y/N)?
+case id: Put Case # here
+
+---
